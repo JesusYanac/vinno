@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "172696060119",
+    "project_id": "vinnote-4747a",
+    "storage_bucket": "vinnote-4747a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172696060119:android:8f3c181fa98f8fa5dbf092",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172696060119-129ouvg00j96qe7t7291encmll2meopu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfBCmaN27oMAzkAEl-Jdnjtl_iuyQJBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172696060119-129ouvg00j96qe7t7291encmll2meopu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172696060119-ii39gjm8v1m3fovlhs0p1vlq670mg6vq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinno.vinno.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172696060119:android:6ec6741bf5a5d4c0dbf092",
+        "android_client_info": {
+          "package_name": "com.softy.vinno.vinno_foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172696060119-129ouvg00j96qe7t7291encmll2meopu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfBCmaN27oMAzkAEl-Jdnjtl_iuyQJBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172696060119-129ouvg00j96qe7t7291encmll2meopu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172696060119-ii39gjm8v1m3fovlhs0p1vlq670mg6vq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinno.vinno.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172696060119:android:f849b994b2b94829dbf092",
+        "android_client_info": {
+          "package_name": "com.vinno.vinno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172696060119-58dvf03q164mksl2qbrlqsrkd0m10gk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinno.vinno",
+            "certificate_hash": "a77ab8035a7bc0156d56188f3203d26d552e446e"
+          }
+        },
+        {
+          "client_id": "172696060119-129ouvg00j96qe7t7291encmll2meopu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfBCmaN27oMAzkAEl-Jdnjtl_iuyQJBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172696060119-129ouvg00j96qe7t7291encmll2meopu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172696060119-ii39gjm8v1m3fovlhs0p1vlq670mg6vq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinno.vinno.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
